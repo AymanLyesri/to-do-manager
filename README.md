@@ -36,4 +36,4 @@
 4. contraints
 
    - delais : fin de semestre
-   - technologie : stable diffusion
+   - technologie : `stable diffusion`, _Angular Js_, _Nodejs_
