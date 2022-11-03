@@ -70,43 +70,11 @@
 
     Règles de gestion
 
-    <table>
-        <thead>
-            <tr>
-                <th>Réf</th><th>Description</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>RG 01</td>
-                <td>L'image génerée est compose de: 
-                        <ul>
-                            <li>ID</li>
-                            <li>Titre</li>
-                            <li>ID de utilisateur</li>
-                            <li>Nombre de likes</li>
-                        </ul>
-                </td>
-            </tr>
-            <tr>
-                <td>RG 02</td>
-                <td>ID est génerée automatiquement</td>
-            </tr>
-            <tr>
-                <td>RG 03</td>
-                <td>L'utilisateur peut avoir plusieurs d'images</td>
-            </tr>
-            <tr>
-                <td>RG 04</td>
-                <td>L'utilisateur peut favoriser plusieurs images</td>
-            </tr>
-            <tr>
-                <td>RG 05</td>
-                <td>Le client peut ajouter qu'un seul like et le retirer</td>
-            </tr>
-            <tr>
-                <td>RG 06</td>
-                <td>L'utilisateur peut liker plusieurs images</td>
-            </tr>
-        </tbody>
-    </table>
+    | Réf   | Description                                                                                                          |
+    | :---- | :-------                                                                                                             |
+    | RG 01 | L'image génerée est compose de: <ul><li>ID</li><li>Titre</li><li>ID de utilisateur</li><li>Nombre de likes</li></ul> |
+    | RG 02 | ID est génerée automatiquement                                                                                       |
+    | RG 03 | L'utilisateur peut avoir plusieurs d'images                                                                          |
+    | RG 04 | L'utilisateur peut favoriser plusieurs images                                                                        |
+    | RG 05 | Le client peut ajouter qu'un seul like et le retirer                                                                 | 
+    | RG 06 | L'utilisateur peut liker plusieurs images                                                                            |
