@@ -4,9 +4,9 @@
 
 **Generation et gestion des images en utlisant l'intelligence artificiel.** `stable diffusion`
 
-| Version  |                 Auteur                  | Approbation |
-| :------- | :-------------------------------------: | ----------: |
-| initiale | **AYMAN_LYESRI** && **YASSIN_TADLAOUI** |           - |
+| Version  |                 Auteur                   | Approbation  |
+| :------- | :-------------------------------------:  | ----------:  |
+| initiale | **AYMAN_LYESRI** && **YASSINE_TADLAOUI** |            - |
 
 ## Perimetre du projet
 
