@@ -10,14 +10,17 @@
 
 ## Perimetre du projet
 
-1. but
+1. But
+
+   Etude, la conception et la réalisation d’un système de gestion
+   d'image en AI, couvrant les modules suivants :
 
    - creation d'image
    - gestion des clients
    - gestion des images sauvegarde
    - gestion des version de stable diffusion
 
-2. mission
+2. Mission
 
    - Etude technique
    - Etude fonctionnelle
@@ -26,14 +29,14 @@
    - Deploiement
    - Documentation
 
-3. livrables
+3. Livrables
 
 | livrables         |    phase    | date de livraison | etat |
 | :---------------- | :---------: | ----------------: | :--: |
 | cahier de charges | realisation |                 - |      |
 | code source       | realisation |                 - |      |
 
-4. contraints
+4. Contraints
 
    - delais : fin de semestre
    - technologie : [stable diffusion](https://github.com/CompVis/stable-diffusion), [_Angular Js_](https://angular.io/), [_Nodejs_](https://nodejs.org/en/)
@@ -42,8 +45,11 @@
 
 1. Concept metier
 
-2. logiciels similaires
+2. Logiciels similaires
    - [_DALL-E_](https://openai.com/dall-e-2/)
+   - [_Pinterest_](https://www.pinterest.com/)
+   - [_Dreamstudio_](https://beta.dreamstudio.ai/)
+   - [_HuggingFace_](https://huggingface.co/spaces/stabilityai/stable-diffusion)
 
 ## Etude fonctionnelle
 
@@ -70,11 +76,11 @@
 
    Règles de gestion
 
-   | Réf   | Description                                                                                                          |
-   | :---- | :------------------------------------------------------------------------------------------------------------------- |
-   | RG 01 | L'image génerée est compose de: <ul><li>ID</li><li>Titre</li><li>ID de utilisateur</li><li>Nombre de likes</li></ul> |
-   | RG 02 | ID est génerée automatiquement                                                                                       |
-   | RG 03 | L'utilisateur peut avoir plusieurs d'images                                                                          |
-   | RG 04 | L'utilisateur peut favoriser plusieurs images                                                                        |
-   | RG 05 | Le client peut ajouter qu'un seul like et le retirer                                                                 |
-   | RG 06 | L'utilisateur peut liker plusieurs images                                                                            |
+   | Réf   | Description                                                                                                                  |
+   | :---- | :--------------------------------------------------------------------------------------------------------------------------- |
+   | RG 01 | L'image génerée est compose de: <ul><li>ID d'image</li><li>Titre</li><li>ID de utilisateur</li><li>Nombre de likes</li></ul> |
+   | RG 02 | ID est génerée automatiquement                                                                                               |
+   | RG 03 | L'utilisateur peut avoir plusieurs d'images                                                                                  |
+   | RG 04 | L'utilisateur peut favoriser plusieurs images                                                                                |
+   | RG 05 | L'utilisateur peut ajouter qu'un seul like et le retirer                                                                     |
+   | RG 06 | L'utilisateur peut liker plusieurs images                                                                                    |
